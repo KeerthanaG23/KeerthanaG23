@@ -1,4 +1,4 @@
-
+![logo](https://github.com/KeerthanaG23/KeerthanaG23/blob/main/thumbnail.png)
 
 <h1 align="center">Hi 👋, I'm Keerthana Gopalakrishnan</h1>
 <h3 align="center">A passionate Computer Science Student from Shiv Nadar University Chennai</h3>
