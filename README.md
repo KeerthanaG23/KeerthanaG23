@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanag23&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanag23" /> </p>
 
-- 🌱 I’m currently learning **Android development,Web development & DevOps**
+- 🌱 I’m currently learning **Web development & DevOps**
 
 - 👯 I’m looking to collaborate on **OpenCV & NLP projects**
 
