@@ -16,7 +16,7 @@
 
 - 📫 You can reach me  via **kethykrish23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wFsin-ir7Kn1Dvk__4d0L2il1vDEOxoD/view](https://drive.google.com/file/d/1wFsin-ir7Kn1Dvk__4d0L2il1vDEOxoD/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1V_902K3x5PDCpJImv7h_kGROLMWqQKwa/view?usp=drive_link](https://drive.google.com/file/d/1V_902K3x5PDCpJImv7h_kGROLMWqQKwa/view?usp=drive_link)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
