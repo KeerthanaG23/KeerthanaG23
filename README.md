@@ -1,7 +1,4 @@
 
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat&logo=gitlab)](https://gitlab.com/kethykrish23)
-
-
 <h1 align="center">Hi 👋, I'm Keerthana Gopalakrishnan</h1>
 <h3 align="center">A passionate Computer Science Student from Shiv Nadar University Chennai</h3>
 
@@ -18,10 +15,12 @@
 
 - 📫 You can reach me  via **kethykrish23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V_902K3x5PDCpJImv7h_kGROLMWqQKwa/view?usp=drive_link](https://drive.google.com/file/d/1V_902K3x5PDCpJImv7h_kGROLMWqQKwa/view?usp=drive_link)
- 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UO0hd2zQ6wWFIY2w8DcDIQ7-OYDnW09O/view?usp=drive_link](https://drive.google.com/file/d/1UO0hd2zQ6wWFIY2w8DcDIQ7-OYDnW09O/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat&logo=gitlab)](https://gitlab.com/kethykrish23)
+ 
 <a href="https://twitter.com/https://twitter.com/keertz23012004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/keertz23012004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/keerthana-g-34881a259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keerthana-g-34881a259/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" height="30" width="40" /></a>
