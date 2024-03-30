@@ -187,3 +187,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthanag23&show_icons=true&locale=en" alt="keerthanag23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanag23&" alt="keerthanag23" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Karthick-ng&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Karthick-ng&icon=1&color=1)](https://visitcount.itsvg.in)
