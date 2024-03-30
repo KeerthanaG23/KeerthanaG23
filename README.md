@@ -135,6 +135,9 @@
     </td>
   </tr>
  </table> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanag23&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanag23" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthanag23" alt="keerthanag23" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthanag23&show_icons=true&locale=en&layout=compact" alt="keerthanag23" /></p>
 
