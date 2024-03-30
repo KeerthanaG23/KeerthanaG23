@@ -24,8 +24,6 @@
  
 <a href="https://twitter.com/https://twitter.com/keertz23012004" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/keertz23012004" height="30" width="40" /></a>
-  
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" height="30" width="40" /></a>
 
 <a href="https://kaggle.com/https://www.kaggle.com/keerthanag23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/keerthanag23" height="30" width="40" /></a>
 
@@ -42,6 +40,8 @@
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@kethykrish23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@kethykrish23" height="30" width="40" /></a>
 
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kethykrknpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kethykrknpw" height="30" width="40" /></a>
+  
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" height="30" width="40" /></a>
 
 
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrmozillir-6tp9e68oi-dq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrmozillir-6tp9e68oi-dq" height="30" width="40" /></a>
