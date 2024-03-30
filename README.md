@@ -1,4 +1,6 @@
 
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat&logo=gitlab)](https://gitlab.com/kethykrish23)
+
 
 <h1 align="center">Hi 👋, I'm Keerthana Gopalakrishnan</h1>
 <h3 align="center">A passionate Computer Science Student from Shiv Nadar University Chennai</h3>
