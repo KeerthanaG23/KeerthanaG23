@@ -17,7 +17,7 @@
 
 <!---- 📄 Know about my experiences [https://drive.google.com/file/d/1UO0hd2zQ6wWFIY2w8DcDIQ7-OYDnW09O/view?usp=drive_link](https://drive.google.com/file/d/1UO0hd2zQ6wWFIY2w8DcDIQ7-OYDnW09O/view?usp=drive_link)--->
 
-<h3 align="left">Connect with me:</h3>
+<!--- <h3 align="left">Connect with me:</h3>
 <p align="left">
  
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat&logo=gitlab)](https://gitlab.com/kethykrish23)
@@ -36,7 +36,7 @@
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@kethykrish23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@kethykrish23" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kethykrknpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kethykrknpw" height="30" width="40" /></a>
 </p>
-
+--->
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <table>
