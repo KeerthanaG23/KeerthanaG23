@@ -19,6 +19,9 @@
 </ul>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KeerthanaG23](https://github.com/KeerthanaG23)
+- ✨ Discover More: [Linktree](https://linktr.ee/KeerthanaG) 📲
+
+
 
 - 📫 You can reach me  via **kethykrish23@gmail.com**
 
