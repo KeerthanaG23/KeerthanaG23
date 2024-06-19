@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Keerthana Gopalakrishnan</h1>
-<h3 align="center">A passionate Computer Science Student from Shiv Nadar University Chennai</h3>
+<h3 align="center">A passionate AI & ML enthusiast from Shiv Nadar University Chennai</h3>
 
 <img align ="right" alt="coding" width ="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
