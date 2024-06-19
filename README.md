@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanag23&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanag23" /> </p>
 
-- 🌱 Currently, I am expanding my expertise in AI & Data Science with a keen focus on exploring the intricacies in the domain.
-- 📚 I'm aiming to enhance my skills in these dynamic domains.
+- 🌱 Currently, I am expanding my expertise in AI & Data Science with a keen focus on exploring its intricacies.
+- 📚 I'm aiming to enhance my skills in various dynamic domains.
 - 🔭 My passion lies in applying advanced ML & DL techniques to solve complex real-world challenges.
 
 - 👯 I’m looking to collaborate on projects related to
