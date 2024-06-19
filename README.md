@@ -19,18 +19,19 @@
 </ul>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KeerthanaG23](https://github.com/KeerthanaG23)
-- ✨ Discover More: [Linktree](https://linktr.ee/KeerthanaG) 📲
+<!---
+ - ✨ Discover More: [Linktree](https://linktr.ee/KeerthanaG) 📲
+--->
 
 
 
 - 📫 You can reach me  via **kethykrish23@gmail.com**
 
 <!---- 📄 Know about my experiences [https://drive.google.com/file/d/1UO0hd2zQ6wWFIY2w8DcDIQ7-OYDnW09O/view?usp=drive_link](https://drive.google.com/file/d/1UO0hd2zQ6wWFIY2w8DcDIQ7-OYDnW09O/view?usp=drive_link)--->
-
+<!---
  <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<!---[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat&logo=gitlab)](https://gitlab.com/kethykrish23)--->
 
 | LinkedIn | GitLab | YouTube | X a.k.a (Twitter) | Stack Overflow | Kaggle | Instagram |
 | -------- | ------ | ------- | ----------- | -------------- | ------ | --------- |
@@ -40,8 +41,9 @@
 | ------ | -------- | ---------- | ---------- | -------- | ----------- | -------------- |
 | <a href="https://medium.com/@kethykrish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" /></a> | <a href="https://www.codechef.com/users/kethykrish23" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30" /></a> | <a href="https://www.hackerrank.com/profile/kethykrish23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" /></a> | <a href="https://codeforces.com/profile/kethykrish_61" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="30" /></a> | <a href="https://leetcode.com/keerthanag23/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" /></a> | <a href="https://www.hackerearth.com/@kethykrish23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="30" /></a> | <a href="https://auth.geeksforgeeks.org/user/kethykrknpw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30" /></a> |
 
-</p>
 
+</p>
+--->
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <table>
