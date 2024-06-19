@@ -25,16 +25,14 @@
 
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/keerthana-g-34881a259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keerthana-g-34881a259/" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrmozillir-6tp9e68oi-dq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrmozillir-6tp9e68oi-dq" height="30" width="40" /></a>
-
 <a href="https://twitter.com/https://twitter.com/keertz23012004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/keertz23012004" height="30" width="40" /></a>
-
+<!---
 
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" height="30" width="40" /></a>
 
 <a href="https://kaggle.com/https://www.kaggle.com/keerthanag23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/keerthanag23" height="30" width="40" /></a>
-<!---
+
 <a href="https://instagram.com/https://www.instagram.com/itz.kethykrish_23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz.kethykrish_23/" height="30" width="40" /></a>
 
 <a href="https://medium.com/https://medium.com/@kethykrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@kethykrish" height="30" width="40" /></a>
