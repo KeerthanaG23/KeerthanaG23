@@ -7,15 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanag23&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanag23" /> </p>
 
-- 🌱 I’m currently learning **Web development & DevOps**
+- 🌱 Currently, I am expanding my expertise in AI & Data Science with a keen focus on exploring the intricacies and aiming to enhance my skills in these dynamic domains. My passion lies in applying advanced Machine Learning techniques to solve complex real-world challenges.
 
-- 👯 I’m looking to collaborate on projects related to 
-- <ul> 
+- 👯 I’m looking to collaborate on projects related to
+   <ul> 
   <li><b>Image & Video Processing</b></li>
   <li><b>Natural Language Processing</b></li>
   <li><b>Digital Signal Processing</b></li>
 </ul>
-**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KeerthanaG23](https://github.com/KeerthanaG23)
 
@@ -27,9 +26,8 @@
 <p align="left">
  
 <!---[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=flat&logo=gitlab)](https://gitlab.com/kethykrish23)--->
-### Social Media Links
 
-| LinkedIn | GitLab | YouTube | X (Twitter) | Stack Overflow | Kaggle | Instagram |
+| LinkedIn | GitLab | YouTube | X a.k.a (Twitter) | Stack Overflow | Kaggle | Instagram |
 | -------- | ------ | ------- | ----------- | -------------- | ------ | --------- |
 | <a href="https://www.linkedin.com/in/keerthana-g-34881a259/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a> | <a href="https://gitlab.com/kethykrish23" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="30" width="30" /></a> | <a href="https://www.youtube.com/channel/ucrmozillir-6tp9e68oi-dq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" /></a> |<a href="https://twitter.com/keertz23012004" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>| <a href="https://stackoverflow.com/users/22191357/keerthana-gopalakrishnan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30" /></a> | <a href="https://www.kaggle.com/keerthanag23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" /></a> | <a href="https://www.instagram.com/itz.kethykrish_23/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a> |
 
