@@ -44,7 +44,7 @@
 
 </p>
 --->
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
@@ -67,6 +67,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
    </td>
   </tr>
+   
   <tr>
     <td>
       <h4> Frontend Development</h4>
@@ -88,12 +89,12 @@
     <td>
     <h4>  Mobile App Development</h4>
     </td>
-    <td>
+   <!--- <td>
       <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
     </td>
     <td>
        <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    </td>
+    </td>--->
    <td>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
    </td>
@@ -153,9 +154,6 @@
     <td>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     </td>
-    <td>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-    </td>
   </tr>
 <tr>
   <td>
@@ -173,7 +171,8 @@
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
     </td>   
   </tr>
-  <tr>
+ 
+  <!---<tr>
     <td>
       <h4>DevOps</h4>
     </td>
@@ -183,7 +182,7 @@
     <td>
       <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
     </td>
-  </tr>
+  </tr>--->
  </table> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanag23&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanag23" /> </p>
 
