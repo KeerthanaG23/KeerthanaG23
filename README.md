@@ -235,6 +235,21 @@
 </td>
   </tr>  
   <tr>
+     <td><h4>Business Intelligence tools</h4></td>
+     <td>
+  <div>
+    <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" width="40" height="40"/>
+    <br/>Power BI
+  </div>
+</td>
+<td>
+  <div>
+    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="40" height="40"/>
+    <br/>Tableau
+  </div>
+</td>
+  </tr>
+  <tr>
     <td>
       <h4>Database</h4>
     </td>
